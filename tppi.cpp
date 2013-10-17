@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int main ( ) {
+int main ( void ) {
 
-printf"TPPI-RULES";
+printf("TPPI-RULES");
 
-return 0;
+return 1;
 
 }
